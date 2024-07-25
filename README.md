@@ -22,4 +22,4 @@ Nesse repositório você ira encontrar uma das coisas que aprendi no módulo de 
 Como o próprio nome do repositório já diz, eu aprendi formas diferentes de adicionar cores na estilização. Como por exemplo (rgb, rgba ou utilizando a #).
 
 ## Dificuldades 
-Talvez por ser CSS básico ou porque o método de ensino dos gêmeos seja bom; mas eu não tive dificuldades em entender as fucionalidades das propriedades aprendidas nesse módulo.
+Talvez por ser CSS básico ou porque o método de ensino dos gêmeos seja bom; mas eu não tive dificuldades em entender as fucionalidades das propriedades aprendidas nesta aula.
